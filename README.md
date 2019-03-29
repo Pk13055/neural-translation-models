@@ -4,10 +4,10 @@
 
 Using implementations of following paper make 4 translation models and check their performance on test data
 
-- [Sequence to Sequence Learning with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf) To get the ball rolling.
-- [Neural Machine Translation By Jointly Learning To Align And Translate](https://arxiv.org/pdf/1409.0473.pdf) Basic attention
-- [Effective Approaches to Attention-based Neural Machine Translation](http://aclweb.org/anthology/D15-1166) Try the three global attention options, ignore local attention
-- [Modeling Coverage for Neural Machine Translation](http://www.aclweb.org/anthology/P16-1008) Does this help for repeated words ?
+- [Sequence to Sequence Learning with Neural Networks](papers/seq2seq.pdf)
+- [Neural Machine Translation By Jointly Learning To Align And Translate](papers/enc-dec.pdf) Basic attention
+- [Effective Approaches to Attention-based Neural Machine Translation](papers/attention.pdf) Try the three global attention options, ignore local attention
+- [Modeling Coverage for Neural Machine Translation](papers/coverage.pdf) Does this help for repeated words ?
 
 ## Dataset
 
