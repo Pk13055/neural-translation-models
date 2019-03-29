@@ -1,0 +1,5 @@
+.envrc
+.vscode/
+.idea/
+data/
+src/.envrc
