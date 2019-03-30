@@ -22,3 +22,6 @@ Using implementations of following paper make 4 translation models and check the
 - Keep your code and model (since model's size will be big) on drive and share the link.
 - Test input and output (can also be shared via drive)
 - Analyse of 50 interesting sentences. 
+
+- The trained models for the concepts covered here can be found
+  [here](https://drive.google.com/drive/folders/1jMl7FQ1yWNUZWyX7tesmTbyOUeA7GgeM?usp=sharing).

@@ -1,0 +1,6 @@
+[submodule "src/models/coverage"]
+	path = src/models/coverage
+	url = https://github.com/tuzhaopeng/NMT-Coverage.git
+[submodule "src/models/global-attention"]
+	path = src/models/global-attention
+	url = https://github.com/lvapeab/nmt-keras.git
